@@ -547,10 +547,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>ModifySecureAgents</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>NewReportBuilder</name>
     </userPermissions>
     <userPermissions>
