@@ -42,7 +42,7 @@
         <members>PlatformEventMonitorIntegrationUser</members>
         <name>PermissionSet</name>
     </types>
-    <!--types>
+    <types>
         <members>IoT_Explorer</members>
         <name>WaveApplication</name>
     </types>
@@ -57,6 +57,6 @@
     <types>
         <members>CountPlatformEventObjects</members>
         <name>WaveDataset</name>
-    </types-->
+    </types>
     <version>40.0</version>
 </Package>
